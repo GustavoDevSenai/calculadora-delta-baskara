@@ -1,0 +1,14 @@
+body{
+    background-color:cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+img{
+    margin-top: 20px;
+}
